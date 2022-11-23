@@ -1,0 +1,263 @@
+@charset "utf-8";
+@import url("../webfonts/Poppins_Bold/stylesheet.css");
+@import url("../webfonts/Champagne___Limousines_Bold/stylesheet.css");
+@import url("../webfonts/Champagne___Limousines_Bold/stylesheet.css");
+@import url("../webfonts/Poppins_Regular/stylesheet.css");
+@import url("../webfonts/Champagne___Limousines/stylesheet.css");
+@import url("../webfonts/Champagne___Limousines_Bold/stylesheet.css");
+@import url("../webfonts/Champagne___Limousines_Bold/stylesheet.css");
+@import url("../webfonts/Champagne___Limousines_Bold/stylesheet.css");
+@import url("../webfonts/Champagne___Limousines_Bold/stylesheet.css");
+@import url("../webfonts/Champagne___Limousines_Bold/stylesheet.css");
+@import url("../webfonts/Champagne___Limousines_Bold/stylesheet.css");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body nav {
+    background-color: #FF0004;
+    height: 120px;
+    display: flex;
+}
+body footer {
+    background-color: #FF0004;
+}
+
+body header {
+    background-color: #000000;
+    height: 100px;
+}
+body main {
+    background-color: #FFFFFF;
+}
+body {
+    background-color: #000000;
+}
+nav ul li {
+    margin-right: 10px;
+    margin-left: 10px;
+    display: inline-block;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    color: #FFFFFF;
+}
+nav ul {
+    padding-left: auto;
+    padding-right: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body section {
+    background-color: #FFFFFF;
+    width: 70%;
+    color: #FFFFFF;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+}
+p section a {
+    color: #FFFFFF;
+    background-color: #FFFFFF;
+}
+
+body h1 img {
+    margin-left: 236px;
+}
+
+body p section {
+}
+
+#aviso_cookies {
+    text-align: center;
+    color: #FFFFFF;
+    font-family: "Poppins Regular";
+    font-size: 12px;
+    padding-bottom: 10px;
+}
+body section table {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 90%;
+
+}
+
+@font-face {
+	font-family: 'Champagne & Limousines Bold';
+	src: url('../webfonts/Champagne___Limousines_Bold/Champagne & Limousines Bold.ttf') format('truetype');
+}
+body nav ul li {
+    color: #FFFFFF;
+    font-family: "Champagne & Limousines Bold";
+    font-size: 22px;
+}
+td h3 a {
+    font-family: "Poppins Bold";
+    color: #FF0004;
+    text-decoration: none;
+}
+
+
+#noticias-title {
+    font-family: "Champagne & Limousines Bold";
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 28px;
+    color: #000000;
+}
+
+
+tbody tr td {
+    font-family: "Poppins Regular";
+    padding: 10px;
+    font-size: 14px;
+    color: #000000;
+}
+footer ul li {
+    font-family: "Champagne & Limousines Bold";
+    color: #FFFFFF;
+    display: inline-block;
+    margin-left: 0px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 18px;
+}
+
+footer ul {
+    padding-top: 15px;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+body footer h3 {
+    color: #FFFFFF;
+    font-family: "Champagne & Limousines Bold";
+    font-size: 18px;
+    margin-left: 0px;
+    text-align: center;
+}
+#titulo_ubicacion {
+    color: #000000;
+    font-family: "Champagne & Limousines Bold";
+    font-size: 28px;
+}
+#historia_cuerpo {
+    color: #FFFFFF;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
+    padding-bottom: 0px;
+    font-family: "Poppins Regular";
+    text-align: left;
+    margin-right: -786px;
+    margin-left: 168px;
+}
+#titulo_historia {
+    color: #000000;
+    font-family: "Champagne & Limousines";
+    padding: 10px;
+    font-size: 28px;
+}
+#titulos_h4cuerpo {
+    color: #000000;
+    font-family: "Champagne & Limousines Bold";
+    padding: 15px;
+    font-size: 20px;
+}
+.animate__delay-3s {
+}
+.animate__delay-4s {
+}
+.animated__delay-2s {
+}
+.animate__delay-5s {
+}
+.animate__delay-2s {
+}
+body div {
+    margin-left: auto;
+    margin-right: auto;
+}
+.animate__animated.animate__pulse {
+    padding: 15px;
+}
+
+.imgs_incio {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: auto;
+    padding-right: auto;
+    width: 100%;
+    height: auto;
+}
+#historia_cuerpo {
+    color: #000000;
+    padding: 15px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+#historia_cuerpo1 {
+    color: #000000;
+    padding-right: 33px;
+    padding-left: 33px;
+    padding-bottom: 33px;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+    margin-top: 1px;
+    font-size: 16pt;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#titulos_redes {
+    color: #FFFFFF;
+    font-family: "Champagne & Limousines Bold";
+    font-size: 20px;
+}
+#titulo_ig {
+    color: #FFFFFF;
+    font-family: "Champagne & Limousines Bold";
+    font-size: 20px;
+}
+#titulo_tw {
+    color: #FFFFFF;
+    font-family: "Champagne & Limousines Bold";
+    font-size: 20px;
+}
+#titulo_mail {
+    color: #FFFFFF;
+    font-family: "Champagne & Limousines Bold";
+    font-size: 20px;
+}
+#titulo_yt {
+    color: #FFFFFF;
+    font-family: "Champagne & Limousines Bold";
+    font-size: 20px;
+}
+#section_redes {
+    background-color: #000000;
+}
+iframe {
+    width: 80%;
+}
